@@ -1,0 +1,18 @@
+.tarjeta-contacto {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 10px;
+  background-color: gray;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 180px;
+}
+
+.tarjeta-contacto h2 {
+  margin-top: 0;
+}
+
+.tarjeta-contacto p {
+  margin-bottom: 5px;
+}
